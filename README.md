@@ -1,7 +1,7 @@
 ## Hi🍀, I'm Samiksha
 
 # 💫 About Me:
-🔭 I’m currently working on : Agentic AI, System Design, Cloud<br>💬 Ask me about : Java & Spring Boot<br>🌱 I’m currently learning : AI tools<br>📫 How to reach me: thoratsamiksha19@gmail.com<br>👯 I’m looking to collaborate on : meaningful open source projects that solve real-world problems<br>🧠 Always exploring: new tools, frameworks, and better ways to craft software
+🔭 I’m currently working on : Agentic AI, System Design, Cloud<br>💬 Ask me about : Java <br>🌱 I’m currently learning : AI tools<br>📫 How to reach me: thoratsamiksha19@gmail.com<br>👯 I’m looking to collaborate on : meaningful open source projects that solve real-world problems<br>🧠 Always exploring: new tools, frameworks, and better ways to craft software
 
 
 ## 🌐 Socials:
