@@ -172,39 +172,22 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samikshathorat21&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=20123a&custom_title=Samiksha's%20Contribution%20Graph" width="100%" />
-</div>
 
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samikshathorat21&theme=tokyonight" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samikshathorat21&theme=tokyo-night&bg_color=ffffff&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=F3E8FF&title_color=A78BFA&custom_title=Samiksha's%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=samikshathorat21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/samikshathorat21/samikshathorat21/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
@@ -212,11 +195,12 @@
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="75%" />
+
 </div>
 
 ---
-
 ## 🎯 Skill Proficiency
 
 <div align="center">
