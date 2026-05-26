@@ -75,7 +75,7 @@
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -147,7 +147,7 @@
 
 ---
 
-# 🏆 Achievements
+# 🧠 What Defines Me
 
 <div align="center">
 
@@ -175,6 +175,25 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samikshathorat21&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=20123a&custom_title=Samiksha's%20Contribution%20Graph" width="100%" />
 </div>
 
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samikshathorat21&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=samikshathorat21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
 
