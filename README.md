@@ -18,7 +18,7 @@
 
 ---
 
-# 💖 About Me
+# 👩‍💻 About Me
 
 > 👋 Hi! I'm **Samiksha Thorat** — a passionate **Full-Stack Developer** who enjoys building scalable applications, exploring cloud technologies, and learning modern AI tools.
 
